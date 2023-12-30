@@ -1,0 +1,10 @@
+#!c:\Users\Шмекс\AppData\Local\Programs\Python\Python312\python.exe
+print ('Content-type: text/html\n\n')
+print ('<html>')
+print (' <head>')
+print (' <title>Apache + Python</title>')
+print (' </head>')
+print (' <body>')
+print (' Hello world!')
+print (' </body>')
+print ('</html>')

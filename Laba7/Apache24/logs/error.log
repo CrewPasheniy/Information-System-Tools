@@ -1,0 +1,231 @@
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::18a1:63d0:e641:1106. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 08 00:19:07.613522 2023] [mpm_winnt:notice] [pid 13988:tid 448] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Fri Dec 08 00:19:07.614523 2023] [mpm_winnt:notice] [pid 13988:tid 448] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Dec 08 00:19:07.614523 2023] [core:notice] [pid 13988:tid 448] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Fri Dec 08 00:19:07.617528 2023] [mpm_winnt:notice] [pid 13988:tid 448] AH00418: Parent: Created child process 16436
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::18a1:63d0:e641:1106. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::18a1:63d0:e641:1106. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 08 00:19:09.711377 2023] [mpm_winnt:notice] [pid 16436:tid 400] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 08 00:19:32.372554 2023] [mpm_winnt:notice] [pid 13988:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Dec 08 00:19:34.396702 2023] [mpm_winnt:notice] [pid 16436:tid 400] AH00364: Child: All worker threads have exited.
+[Fri Dec 08 00:19:34.423840 2023] [mpm_winnt:notice] [pid 13988:tid 448] AH00430: Parent: Child process 16436 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::18a1:63d0:e641:1106. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 08 00:19:54.704540 2023] [mpm_winnt:notice] [pid 11168:tid 424] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Fri Dec 08 00:19:54.704540 2023] [mpm_winnt:notice] [pid 11168:tid 424] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Dec 08 00:19:54.704540 2023] [core:notice] [pid 11168:tid 424] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Fri Dec 08 00:19:54.708543 2023] [mpm_winnt:notice] [pid 11168:tid 424] AH00418: Parent: Created child process 8812
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::18a1:63d0:e641:1106. Set the 'ServerName' directive globally to suppress this message
+Apache server interrupted...
+ reliably determine the server's fully qualified domain name, using fe80::18a1:63d0:e641:1106. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 08 00:19:56.684221 2023] [mpm_winnt:notice] [pid 8812:tid 404] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 08 00:21:12.114337 2023] [mpm_winnt:notice] [pid 11168:tid 424] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Fri Dec 08 00:21:19.017357 2023] [mpm_winnt:notice] [pid 8812:tid 404] AH00364: Child: All worker threads have exited.
+[Fri Dec 08 00:21:19.041725 2023] [mpm_winnt:notice] [pid 11168:tid 424] AH00430: Parent: Child process 8812 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::4746:a03a:2536:c8b0. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 21:24:36.341280 2023] [mpm_winnt:notice] [pid 21028:tid 412] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Tue Dec 19 21:24:36.342281 2023] [mpm_winnt:notice] [pid 21028:tid 412] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Dec 19 21:24:36.342281 2023] [core:notice] [pid 21028:tid 412] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Tue Dec 19 21:24:36.345281 2023] [mpm_winnt:notice] [pid 21028:tid 412] AH00418: Parent: Created child process 22648
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::4746:a03a:2536:c8b0. Set the 'ServerName' directive globally to suppress this message
+Apache server interrupted...
+ reliably determine the server's fully qualified domain name, using fe80::4746:a03a:2536:c8b0. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 21:24:38.312965 2023] [mpm_winnt:notice] [pid 22648:tid 416] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 19 21:26:47.942167 2023] [mpm_winnt:notice] [pid 21028:tid 412] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 19 21:26:49.955094 2023] [mpm_winnt:notice] [pid 22648:tid 416] AH00364: Child: All worker threads have exited.
+[Tue Dec 19 21:26:49.981552 2023] [mpm_winnt:notice] [pid 21028:tid 412] AH00430: Parent: Child process 22648 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::4746:a03a:2536:c8b0. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 21:46:05.803850 2023] [mpm_winnt:notice] [pid 22652:tid 424] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Tue Dec 19 21:46:05.804849 2023] [mpm_winnt:notice] [pid 22652:tid 424] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Dec 19 21:46:05.804849 2023] [core:notice] [pid 22652:tid 424] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Tue Dec 19 21:46:05.807850 2023] [mpm_winnt:notice] [pid 22652:tid 424] AH00418: Parent: Created child process 7120
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::4746:a03a:2536:c8b0. Set the 'ServerName' directive globally to suppress this message
+Apache server interrupted...
+ reliably determine the server's fully qualified domain name, using fe80::4746:a03a:2536:c8b0. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 21:46:07.895986 2023] [mpm_winnt:notice] [pid 7120:tid 412] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 19 22:14:40.307232 2023] [mpm_winnt:notice] [pid 22652:tid 424] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 19 22:14:42.324872 2023] [mpm_winnt:notice] [pid 7120:tid 412] AH00364: Child: All worker threads have exited.
+[Tue Dec 19 22:14:42.352896 2023] [mpm_winnt:notice] [pid 22652:tid 424] AH00430: Parent: Child process 7120 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::4746:a03a:2536:c8b0. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 22:14:55.309005 2023] [mpm_winnt:notice] [pid 23496:tid 412] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Tue Dec 19 22:14:55.310004 2023] [mpm_winnt:notice] [pid 23496:tid 412] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Dec 19 22:14:55.310004 2023] [core:notice] [pid 23496:tid 412] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Tue Dec 19 22:14:55.313005 2023] [mpm_winnt:notice] [pid 23496:tid 412] AH00418: Parent: Created child process 15524
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::4746:a03a:2536:c8b0. Set the 'ServerName' directive globally to suppress this message
+Apache server interrupted...
+ reliably determine the server's fully qualified domain name, using fe80::4746:a03a:2536:c8b0. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 22:14:57.292693 2023] [mpm_winnt:notice] [pid 15524:tid 420] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 19 22:32:47.194379 2023] [cgi:error] [pid 15524:tid 1240] [client ::1:59969] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 22:37:08.884631 2023] [cgi:error] [pid 15524:tid 1244] [client ::1:60114] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 22:37:26.354381 2023] [mpm_winnt:notice] [pid 23496:tid 412] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Tue Dec 19 22:37:56.369256 2023] [mpm_winnt:notice] [pid 23496:tid 412] AH00431: Parent: Forcing termination of child process 15524
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::4746:a03a:2536:c8b0. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 22:38:09.062359 2023] [mpm_winnt:notice] [pid 21932:tid 400] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Tue Dec 19 22:38:09.063360 2023] [mpm_winnt:notice] [pid 21932:tid 400] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Dec 19 22:38:09.063360 2023] [core:notice] [pid 21932:tid 400] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Tue Dec 19 22:38:09.066359 2023] [mpm_winnt:notice] [pid 21932:tid 400] AH00418: Parent: Created child process 18224
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::4746:a03a:2536:c8b0. Set the 'ServerName' directive globally to suppress this message
+Apache server interrupted...
+ reliably determine the server's fully qualified domain name, using fe80::4746:a03a:2536:c8b0. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 22:38:11.046494 2023] [mpm_winnt:notice] [pid 18224:tid 404] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 19 22:39:43.761920 2023] [cgi:error] [pid 18224:tid 1244] [client ::1:60199] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 22:39:44.688184 2023] [cgi:error] [pid 18224:tid 1244] [client ::1:60199] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 22:39:44.903284 2023] [cgi:error] [pid 18224:tid 1244] [client ::1:60199] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 22:39:45.117948 2023] [cgi:error] [pid 18224:tid 1244] [client ::1:60199] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 22:39:45.289509 2023] [cgi:error] [pid 18224:tid 1244] [client ::1:60199] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 22:41:37.002579 2023] [cgi:error] [pid 18224:tid 1236] [client ::1:60350] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py
+[Tue Dec 19 22:41:37.429417 2023] [cgi:error] [pid 18224:tid 1236] [client ::1:60350] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py
+[Tue Dec 19 22:46:17.032301 2023] [mpm_winnt:notice] [pid 21932:tid 400] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 19 22:46:19.052230 2023] [mpm_winnt:notice] [pid 18224:tid 404] AH00364: Child: All worker threads have exited.
+[Tue Dec 19 22:46:19.079274 2023] [mpm_winnt:notice] [pid 21932:tid 400] AH00430: Parent: Child process 18224 exited successfully.
+[Tue Dec 19 22:54:01.389842 2023] [mpm_winnt:notice] [pid 9564:tid 384] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Tue Dec 19 22:54:01.390842 2023] [mpm_winnt:notice] [pid 9564:tid 384] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Dec 19 22:54:01.390842 2023] [core:notice] [pid 9564:tid 384] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Tue Dec 19 22:54:01.393841 2023] [mpm_winnt:notice] [pid 9564:tid 384] AH00418: Parent: Created child process 6328
+Apache server interrupted...
+023] [mpm_winnt:notice] [pid 6328:tid 400] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 19 22:54:06.592123 2023] [cgi:error] [pid 6328:tid 1016] (OS 2)Не удается найти указанный файл.  : [client ::1:61245] couldn't create child process: 720002: indexCGI.py
+[Tue Dec 19 22:54:06.593120 2023] [cgi:error] [pid 6328:tid 1016] (OS 2)Не удается найти указанный файл.  : [client ::1:61245] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py
+[Tue Dec 19 22:54:15.252602 2023] [cgi:error] [pid 6328:tid 1012] (OS 2)Не удается найти указанный файл.  : [client ::1:61246] couldn't create child process: 720002: indexCGI.py
+[Tue Dec 19 22:54:15.252602 2023] [cgi:error] [pid 6328:tid 1012] (OS 2)Не удается найти указанный файл.  : [client ::1:61246] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py
+[Tue Dec 19 22:58:36.426616 2023] [cgi:error] [pid 6328:tid 1016] (OS 2)Не удается найти указанный файл.  : [client ::1:61382] couldn't create child process: 720002: indexCGI.py
+[Tue Dec 19 22:58:36.426616 2023] [cgi:error] [pid 6328:tid 1016] (OS 2)Не удается найти указанный файл.  : [client ::1:61382] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py
+[Tue Dec 19 22:59:50.351557 2023] [mpm_winnt:notice] [pid 9564:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 19 22:59:52.365646 2023] [mpm_winnt:notice] [pid 6328:tid 400] AH00364: Child: All worker threads have exited.
+[Tue Dec 19 22:59:52.390651 2023] [mpm_winnt:notice] [pid 9564:tid 384] AH00430: Parent: Child process 6328 exited successfully.
+[Tue Dec 19 23:00:01.149563 2023] [mpm_winnt:notice] [pid 12328:tid 424] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Tue Dec 19 23:00:01.150563 2023] [mpm_winnt:notice] [pid 12328:tid 424] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Dec 19 23:00:01.150563 2023] [core:notice] [pid 12328:tid 424] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Tue Dec 19 23:00:01.153565 2023] [mpm_winnt:notice] [pid 12328:tid 424] AH00418: Parent: Created child process 21696
+Apache server interrupted...
+023] [mpm_winnt:notice] [pid 21696:tid 388] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 19 23:00:03.860564 2023] [cgi:error] [pid 21696:tid 1020] (OS 2)Не удается найти указанный файл.  : [client ::1:61453] couldn't create child process: 720002: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:00:03.861564 2023] [cgi:error] [pid 21696:tid 1020] (OS 2)Не удается найти указанный файл.  : [client ::1:61453] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:00:04.504566 2023] [cgi:error] [pid 21696:tid 1008] (OS 2)Не удается найти указанный файл.  : [client ::1:61454] couldn't create child process: 720002: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:00:04.504566 2023] [cgi:error] [pid 21696:tid 1008] (OS 2)Не удается найти указанный файл.  : [client ::1:61454] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:01:49.655738 2023] [cgi:error] [pid 21696:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:61522] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:01:49.655738 2023] [cgi:error] [pid 21696:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:61522] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:01:50.220218 2023] [cgi:error] [pid 21696:tid 1008] (OS 5)Отказано в доступе.  : [client ::1:61523] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:01:50.221218 2023] [cgi:error] [pid 21696:tid 1008] (OS 5)Отказано в доступе.  : [client ::1:61523] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:01:58.605379 2023] [cgi:error] [pid 21696:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:61525] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:01:58.605379 2023] [cgi:error] [pid 21696:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:61525] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:02:06.940193 2023] [cgi:error] [pid 21696:tid 1008] (OS 5)Отказано в доступе.  : [client ::1:61528] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:02:06.940193 2023] [cgi:error] [pid 21696:tid 1008] (OS 5)Отказано в доступе.  : [client ::1:61528] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:02:07.433522 2023] [cgi:error] [pid 21696:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:61533] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:02:07.433522 2023] [cgi:error] [pid 21696:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:61533] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:02:15.998204 2023] [mpm_winnt:notice] [pid 12328:tid 424] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Tue Dec 19 23:02:46.011822 2023] [mpm_winnt:notice] [pid 12328:tid 424] AH00431: Parent: Forcing termination of child process 21696
+[Tue Dec 19 23:02:49.676811 2023] [mpm_winnt:notice] [pid 23164:tid 424] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Tue Dec 19 23:02:49.677808 2023] [mpm_winnt:notice] [pid 23164:tid 424] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Dec 19 23:02:49.677808 2023] [core:notice] [pid 23164:tid 424] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Tue Dec 19 23:02:49.680808 2023] [mpm_winnt:notice] [pid 23164:tid 424] AH00418: Parent: Created child process 12304
+Apache server interrupted...
+023] [mpm_winnt:notice] [pid 12304:tid 388] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 19 23:02:53.172699 2023] [cgi:error] [pid 12304:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:61552] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:02:53.172699 2023] [cgi:error] [pid 12304:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:61552] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:02:53.928558 2023] [cgi:error] [pid 12304:tid 1012] (OS 5)Отказано в доступе.  : [client ::1:61553] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:02:53.928558 2023] [cgi:error] [pid 12304:tid 1012] (OS 5)Отказано в доступе.  : [client ::1:61553] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:03:34.920635 2023] [cgi:error] [pid 12304:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:61555] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:03:34.920635 2023] [cgi:error] [pid 12304:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:61555] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:03:35.651655 2023] [cgi:error] [pid 12304:tid 1012] (OS 5)Отказано в доступе.  : [client ::1:61576] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:03:35.651655 2023] [cgi:error] [pid 12304:tid 1012] (OS 5)Отказано в доступе.  : [client ::1:61576] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:03:35.798654 2023] [cgi:error] [pid 12304:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:61577] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:03:35.798654 2023] [cgi:error] [pid 12304:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:61577] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:04:32.769242 2023] [cgi:error] [pid 12304:tid 1012] (OS 5)Отказано в доступе.  : [client ::1:61578] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:04:32.769242 2023] [cgi:error] [pid 12304:tid 1012] (OS 5)Отказано в доступе.  : [client ::1:61578] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:04:33.288179 2023] [cgi:error] [pid 12304:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:61609] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:04:33.288179 2023] [cgi:error] [pid 12304:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:61609] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:04:33.445319 2023] [cgi:error] [pid 12304:tid 1012] (OS 5)Отказано в доступе.  : [client ::1:61610] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:04:33.445319 2023] [cgi:error] [pid 12304:tid 1012] (OS 5)Отказано в доступе.  : [client ::1:61610] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:04:33.584355 2023] [cgi:error] [pid 12304:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:61611] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:04:33.584355 2023] [cgi:error] [pid 12304:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:61611] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:04:33.717354 2023] [cgi:error] [pid 12304:tid 1012] (OS 5)Отказано в доступе.  : [client ::1:61612] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:04:33.717354 2023] [cgi:error] [pid 12304:tid 1012] (OS 5)Отказано в доступе.  : [client ::1:61612] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:04:33.860388 2023] [cgi:error] [pid 12304:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:61613] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:04:33.860388 2023] [cgi:error] [pid 12304:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:61613] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:04:34.006112 2023] [cgi:error] [pid 12304:tid 1012] (OS 5)Отказано в доступе.  : [client ::1:61614] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:04:34.006112 2023] [cgi:error] [pid 12304:tid 1012] (OS 5)Отказано в доступе.  : [client ::1:61614] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:05:01.320984 2023] [cgi:error] [pid 12304:tid 1012] (OS 5)Отказано в доступе.  : [client ::1:61632] couldn't create child process: 720005: indexCGI.py
+[Tue Dec 19 23:05:01.320984 2023] [cgi:error] [pid 12304:tid 1012] (OS 5)Отказано в доступе.  : [client ::1:61632] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py
+[Tue Dec 19 23:05:01.716047 2023] [cgi:error] [pid 12304:tid 1012] (OS 5)Отказано в доступе.  : [client ::1:61633] couldn't create child process: 720005: indexCGI.py
+[Tue Dec 19 23:05:01.716047 2023] [cgi:error] [pid 12304:tid 1012] (OS 5)Отказано в доступе.  : [client ::1:61633] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py
+[Tue Dec 19 23:05:15.916637 2023] [mpm_winnt:notice] [pid 23164:tid 424] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 19 23:05:36.021233 2023] [mpm_winnt:notice] [pid 12304:tid 388] AH00364: Child: All worker threads have exited.
+[Tue Dec 19 23:05:36.047338 2023] [mpm_winnt:notice] [pid 23164:tid 424] AH00430: Parent: Child process 12304 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::4746:a03a:2536:c8b0. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 23:06:52.372728 2023] [mpm_winnt:notice] [pid 19260:tid 408] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Tue Dec 19 23:06:52.373729 2023] [mpm_winnt:notice] [pid 19260:tid 408] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Dec 19 23:06:52.373729 2023] [core:notice] [pid 19260:tid 408] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Tue Dec 19 23:06:52.376728 2023] [mpm_winnt:notice] [pid 19260:tid 408] AH00418: Parent: Created child process 10452
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::4746:a03a:2536:c8b0. Set the 'ServerName' directive globally to suppress this message
+Apache server interrupted...
+ reliably determine the server's fully qualified domain name, using fe80::4746:a03a:2536:c8b0. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 23:06:54.327689 2023] [mpm_winnt:notice] [pid 10452:tid 436] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 19 23:06:54.329689 2023] [cgi:error] [pid 10452:tid 1228] [client ::1:61759] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:06:55.727195 2023] [cgi:error] [pid 10452:tid 1228] [client ::1:61759] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:07:47.599277 2023] [cgi:error] [pid 10452:tid 1220] [client ::1:61760] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:07:48.119199 2023] [cgi:error] [pid 10452:tid 1220] [client ::1:61760] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:07:48.306335 2023] [cgi:error] [pid 10452:tid 1220] [client ::1:61760] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:07:48.484279 2023] [cgi:error] [pid 10452:tid 1220] [client ::1:61760] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:07:48.635905 2023] [cgi:error] [pid 10452:tid 1220] [client ::1:61760] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:08:42.581289 2023] [cgi:error] [pid 10452:tid 1228] [client ::1:61788] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:09:12.034011 2023] [mpm_winnt:notice] [pid 19260:tid 408] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Tue Dec 19 23:09:42.035704 2023] [mpm_winnt:notice] [pid 19260:tid 408] AH00431: Parent: Forcing termination of child process 10452
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::4746:a03a:2536:c8b0. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 23:10:05.760523 2023] [mpm_winnt:notice] [pid 14068:tid 408] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Tue Dec 19 23:10:05.761524 2023] [mpm_winnt:notice] [pid 14068:tid 408] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Dec 19 23:10:05.761524 2023] [core:notice] [pid 14068:tid 408] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Tue Dec 19 23:10:05.764526 2023] [mpm_winnt:notice] [pid 14068:tid 408] AH00418: Parent: Created child process 20864
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::4746:a03a:2536:c8b0. Set the 'ServerName' directive globally to suppress this message
+Apache server interrupted...
+ reliably determine the server's fully qualified domain name, using fe80::4746:a03a:2536:c8b0. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 23:10:07.848307 2023] [mpm_winnt:notice] [pid 20864:tid 420] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 19 23:10:07.851306 2023] [cgi:error] [pid 20864:tid 1228] [client ::1:61911] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:19:37.678901 2023] [cgi:error] [pid 20864:tid 1220] [client ::1:62249] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:21:56.093287 2023] [cgi:error] [pid 20864:tid 1228] [client ::1:62403] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:22:35.483064 2023] [cgi:error] [pid 20864:tid 1220] [client ::1:62404] AH02809: Options ExecCGI is off in this directory: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:23:27.761364 2023] [mpm_winnt:notice] [pid 14068:tid 408] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Tue Dec 19 23:23:37.504756 2023] [mpm_winnt:notice] [pid 20864:tid 420] AH00364: Child: All worker threads have exited.
+[Tue Dec 19 23:23:37.531864 2023] [mpm_winnt:notice] [pid 14068:tid 408] AH00430: Parent: Child process 20864 exited successfully.
+[Tue Dec 19 23:24:03.587164 2023] [mpm_winnt:notice] [pid 16368:tid 388] AH00455: Apache/2.4.58 (Win64) configured -- resuming normal operations
+[Tue Dec 19 23:24:03.588164 2023] [mpm_winnt:notice] [pid 16368:tid 388] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Dec 19 23:24:03.588164 2023] [core:notice] [pid 16368:tid 388] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Tue Dec 19 23:24:03.591163 2023] [mpm_winnt:notice] [pid 16368:tid 388] AH00418: Parent: Created child process 23196
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 23196:tid 404] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 19 23:24:10.161660 2023] [cgi:error] [pid 23196:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:62477] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:24:10.162661 2023] [cgi:error] [pid 23196:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:62477] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:24:11.417641 2023] [cgi:error] [pid 23196:tid 1012] (OS 5)Отказано в доступе.  : [client ::1:62478] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:24:11.417641 2023] [cgi:error] [pid 23196:tid 1012] (OS 5)Отказано в доступе.  : [client ::1:62478] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:28:43.513870 2023] [cgi:error] [pid 23196:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:62643] couldn't create child process: 720005: indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:28:43.513870 2023] [cgi:error] [pid 23196:tid 1020] (OS 5)Отказано в доступе.  : [client ::1:62643] AH01223: couldn't spawn child process: C:/Apache24/htdocs/indexCGI.py, referer: https://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=
+[Tue Dec 19 23:36:40.579466 2023] [mpm_winnt:notice] [pid 16368:tid 388] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 19 23:36:42.598748 2023] [mpm_winnt:notice] [pid 23196:tid 404] AH00364: Child: All worker threads have exited.
+[Tue Dec 19 23:36:42.624890 2023] [mpm_winnt:notice] [pid 16368:tid 388] AH00430: Parent: Child process 23196 exited successfully.
