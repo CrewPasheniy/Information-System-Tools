@@ -8,7 +8,7 @@ PROJECT_NAME           = "My Project"
 PROJECT_NUMBER         =
 PROJECT_BRIEF          =
 PROJECT_LOGO           =
-OUTPUT_DIRECTORY       = C:/Users/HydraTyan/Desktop/Information-Systems-Tools/Lab7/Django/mysite/Doxygen
+OUTPUT_DIRECTORY       = D:\GIT\Information-System-Tools\Laba7\Django\mysite\Doxygen
 CREATE_SUBDIRS         = NO
 CREATE_SUBDIRS_LEVEL   = 8
 ALLOW_UNICODE_NAMES    = NO
@@ -124,7 +124,7 @@ WARN_LOGFILE           =
 #---------------------------------------------------------------------------
 # Configuration options related to the input files
 #---------------------------------------------------------------------------
-INPUT                  = C:/Users/HydraTyan/Desktop/Information-Systems-Tools/Lab7/Django/mysite
+INPUT                  = D:\GIT\Information-System-Tools\Laba7\Django\mysite
 INPUT_ENCODING         = UTF-8
 INPUT_FILE_ENCODING    =
 FILE_PATTERNS          = *.c \

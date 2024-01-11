@@ -1,10 +1,11 @@
 m = []
-s = ['end'] #команда остановки 
+s = ['end'] #ключ стопер
 while True:
-    n = input().split() #вводим через сплит
-    k = min(n) #поиск минимального значения
+    n = input().split() #аутпут сплит
     if n == s:
         break
-    m.append(k)
+    else:
+        k = min(n, key=int) #поиск минимального
+        m.append(k)
 for i in m: #вывод
     print(i)
